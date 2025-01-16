@@ -23,6 +23,10 @@ A simple and responsive Google Keep clone that allows users to create, manage, a
 
 ---
 
+## Project Live URL
+
+[https://hummingcoder.github.io/Google-Keep-Clone/](https://hummingcoder.github.io/Google-Keep-Clone/)
+
 ## Installation and Setup
 
 1. Clone the repository:
