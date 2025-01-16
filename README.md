@@ -1,8 +1,43 @@
-# React + Vite
+# Google Keep Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Google Keep clone that allows users to create, manage, and organize their notes with ease.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Add Notes**: Create and save your notes.
+- **Archive Notes**: Move notes to the archive for future reference.
+- **Delete Notes**: Permanently remove unwanted notes.
+- **Dark Mode Theme**: Toggle between light and dark themes for better accessibility.
+- **Responsive Design**: Seamlessly accessible across devices.
+
+---
+
+## Technologies Used
+
+- **React.js**: Component-based UI development.
+- **Tailwind CSS**: Utility-first styling for modern and responsive design.
+- **React Router**: Navigation and routing between pages.
+- **Redux Toolkit**: State management for efficient and scalable data handling.
+
+---
+
+## Installation and Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Hummingcoder/Google-Keep-Clone.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd Google-Keep-Clone
+   ```
+
+3. Start the development server:
+   ```bash
+      npm start
+   ```
