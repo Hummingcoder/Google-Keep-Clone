@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .masonry-2-col {
+    column-count: 2;
+    vertical-align: top;
+  }
+  .masonry-3-col {
+    column-count: 3;
+    vertical-align: top;
+  }
+
+  .break-inside {
+    break-inside: avoid;
+    display: inline-block;
+    vertical-align: top;
+  }
+}
